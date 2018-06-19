@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sarahbloomberg/prime/dotnet/myApp/myApp.csproj",
+      "projectUniqueName": "/Users/sarahbloomberg/devlanguages/dotnet/myApp/myApp.csproj",
       "projectName": "myApp",
-      "projectPath": "/Users/sarahbloomberg/prime/dotnet/myApp/myApp.csproj",
+      "projectPath": "/Users/sarahbloomberg/devlanguages/dotnet/myApp/myApp.csproj",
       "packagesPath": "/Users/sarahbloomberg/.nuget/packages/",
-      "outputPath": "/Users/sarahbloomberg/prime/dotnet/myApp/obj/",
+      "outputPath": "/Users/sarahbloomberg/devlanguages/dotnet/myApp/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
