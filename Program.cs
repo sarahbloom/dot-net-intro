@@ -7,7 +7,18 @@ namespace myApp
     {
 
         static void Main(string[] args){
-            WorkingWithStrings();
+            // WorkingWithStrings();
+
+            var fibonacciNumbers = new List<int>{1,1};
+            var previousNumber = fibonacciNumbers[fibonacciNumbers.Count - 1];
+            var previousNumber2 = fibonacciNumbers[fibonacciNumbers.Count - 2];
+
+            var newNumber = previousNumber + previousNumber2;
+
+            fibonacciNumbers.Add(newNumber);
+
+            foreach (var item in fibonacciNumbers)
+                Console.WriteLine(item);
         }
         static void WorkingWithStrings()
         {
